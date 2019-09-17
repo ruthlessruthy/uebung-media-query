@@ -41,7 +41,7 @@ html, body {
     display: flex;
     background: blue;
     Height: 600px;
-    align-items: flex-end;
+    align-items: flex;
   }
 }
 
